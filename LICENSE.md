@@ -1,4 +1,4 @@
-# 
+# Oficial JetBrains PyCharm temas para Mac OS | Actualizado JetBrains PyCharm temas para PC Windows. Con vista blame y escaneo de imágenes — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
